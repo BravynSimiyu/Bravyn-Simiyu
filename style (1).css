@@ -1,0 +1,66 @@
+body {font-family:Arial,sans-serif;
+    font-size: 15pt;
+    line-height: 1.6;
+}
+button{padding:10px 20px;
+font-size: 20px;
+background-color:blue;
+color:white;
+}
+button:hover{
+  background-color:blue;
+}
+  
+#navbar{position: sticky;
+  background-color:greenyellow;
+  color:black;
+  display:flex;
+  justify-content:space-between;
+  padding:20px;
+  border: solid black;
+  border-radius:10px;
+}
+
+
+#hero{background-color:powderblue;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+  border: solid black;
+  border-radius:10px;
+}
+#features{
+  padding:20px;
+  text-align:center;
+  border: solid black;
+  border-radius:10px;
+  background-color:greenyellow;
+}
+  
+#testimonials{
+  background-color:powderblue;
+  padding:10px;
+  text-align:center;
+  border:solid black;
+  border-radius:10px;
+}
+  #pricing{
+    text-align:center;
+    background-color:greenyellow;
+    padding:20px;
+    border:solid black;
+    border-radius:10px;
+}
+
+#faq{
+  border: solid black;
+  border-radius:10px;
+  text-align:center;
+  background-color:powderblue;
+}
+footer{
+  background-color:black;
+  text-align:center;
+  color:white;
+}
